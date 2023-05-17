@@ -49,7 +49,7 @@ body {
   /* Cover picture */
   
   .cover {
-    background-image: url('/images/thumbnail.png');
+    background-image: url('/HTML/erxhela-final/images/thumbnail.png');
     background-size: cover;
     height: 400px;
     display: flex;
